@@ -7,9 +7,7 @@ python3 setup.py
 Install SET
 =======
 
-Mac OS X
-
 Installation
-Windows 10 WSL/WSL2 Kali Linux
+Windows 11 WSL/WSL2 Kali Linux
 sudo apt install set -y
 Kali Linux on Windows 10 is a minimal installation so it doesn't have any tools installed. You can easily install Social Engineer Toolkit on WSL/WSL2 without needing pip using the above command.
